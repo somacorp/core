@@ -1,8 +1,8 @@
 package signer
 
 import (
-	"github.com/somacorp/core/crv"
-	"github.com/somacorp/core/enc"
+	"github.com/somacorp/core/crypto/crv"
+	"github.com/somacorp/core/crypto/enc"
 )
 
 type Signer struct {
